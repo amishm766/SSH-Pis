@@ -25,6 +25,8 @@ If you want to check if the keys are saved at the specified location list your.s
 It should return something like following line
 
     id_rsa  id_rsa.pub  known_hosts
+SHARING SSH KEYS
+
 To share your ssh keys to other pis execute following and enter password for last time
 
     ssh-copy-id <USERNAME>@<IP-ADDRESS>
