@@ -2,7 +2,7 @@
 Access over different Pis without entering passwords
 
 
-CHECK IF ALREADY SSH KEYS EXISTS
+#CHECK IF ALREADY SSH KEYS EXISTS
 
 Check if already ssh keys are present which you are using to connect to your pi. To confirm execute the following 
 
