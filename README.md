@@ -1,4 +1,4 @@
-# SSH Pis without password
+# SSH over Pis without password
 Access over different Pis without entering passwords
 
 
