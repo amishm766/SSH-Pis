@@ -1,4 +1,4 @@
-# ssh-Pis
+# ssh-Pis-without-password
 Access over different Pis without entering passwords
 
 
